@@ -16,22 +16,22 @@ Week of the Week change:
 
 • Revenue decreased by -9.4%, 
 
-• Total Transaction Amt & Count increased by xx% & xx%
+• Total Transaction Amt Decreased by 13.41% & 15.38%.
 
-• Customer count increased by xx% Overview YTD:
+• Customer count increased by -15.89% Overview YTD:
 
-• Overall revenue is 57M
+• Overall revenue is 9.82M
 
-• Total interest is 8M
+• Total interest is 7.8M
 
-• Total transaction amount is 46M
+• Total transaction amount is 45M
 
-• Male customers are contributing more in revenue 31M, female 26M
+• Male customers are contributing more in revenue 25M, female 20M
 
-• Blue & Silver credit card are contributing to 93% of overall transactions
+• Blue & Silver credit card are contributing to 94.10 % of overall transactions
 
 • TX, NY & CA is contributing to 68%
 
-• Overall Activation rate is 57.5%
+• Overall Activation rate is 57.47%
 
-• Overall Delinquent rate is 6.06%
+• Overall Delinquent rate is 6.07%
